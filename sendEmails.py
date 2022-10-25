@@ -2,6 +2,7 @@ import boto3
 import json
 from botocore.exceptions import ClientError
 
+#This thread was helpful: https://stackoverflow.com/questions/70286801/how-to-load-csv-files-data-from-s3-to-mysql-rds-using-lambda
 
 SENDER = "sender email here"
 CONFIGURATION_SET = "ConfigSet"
