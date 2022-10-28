@@ -7,4 +7,4 @@ This new service allows for distributed email uploading (web app), standardized 
 <img width="809" alt="flowchart" src="https://user-images.githubusercontent.com/20544603/198423860-c9e8ec43-f42d-4f23-a894-627753a439cc.png">
 
 Other links:
-- Please see flowchart: https://miro.com/app/board/uXjVPKjSvVU=/
+- miro: https://miro.com/app/board/uXjVPKjSvVU=/
