@@ -4,9 +4,7 @@ This cloud service allows event coordinators to gather emails at events and uplo
 
 This new service allows for distributed email uploading (web app), standardized emailing (templates), and timely emailing (scheduled).
 
-Please see flowchart: https://miro.com/app/board/uXjVPKjSvVU=/
+<img width="809" alt="flowchart" src="https://user-images.githubusercontent.com/20544603/198423860-c9e8ec43-f42d-4f23-a894-627753a439cc.png">
 
-<div>
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPKjSvVU=/?moveToViewport=-4972,-2848,12010,7250&embedId=19024361558" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
+Other links:
+- Please see flowchart: https://miro.com/app/board/uXjVPKjSvVU=/
