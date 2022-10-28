@@ -6,4 +6,7 @@ This new service allows for distributed email uploading (web app), standardized 
 
 Please see flowchart: https://miro.com/app/board/uXjVPKjSvVU=/
 
+<div>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPKjSvVU=/?moveToViewport=-4972,-2848,12010,7250&embedId=19024361558" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
