@@ -4,7 +4,7 @@ This cloud service allows event coordinators to gather emails at events and uplo
 
 This new service allows for distributed email uploading (web app), standardized emailing (templates), and timely emailing (scheduled).
 
-<img width="809" alt="flowchart" src="https://user-images.githubusercontent.com/20544603/198423860-c9e8ec43-f42d-4f23-a894-627753a439cc.png">
+<img width="809" alt="flowchart" src="https://github.com/happinessk/AWS-Custom-CRM/blob/main/homepage.jpg">
 
 Other links:
 - miro: https://miro.com/app/board/uXjVPKjSvVU=/
