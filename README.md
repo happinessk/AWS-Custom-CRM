@@ -5,7 +5,7 @@ This cloud service allows event coordinators to gather emails at events and uplo
 📍AWS Blueprint
 - miro: https://miro.com/app/board/uXjVPKjSvVU=/
 
-💻 Features Include: 
+✨ Features Include: 
 
 WordPress 
 - Forminator - Wordpress form feature
