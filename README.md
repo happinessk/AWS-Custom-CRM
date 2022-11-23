@@ -20,7 +20,7 @@ Why invest in the cloud
 Your company will be able to gather, store, share, and access data more simply thanks to cloud computing. Data that is saved in the cloud isn't kept on your computer's hard drive; rather, it is instead kept on internet servers that you may access from any location with just a few mouse clicks. While automating your organization's procedures, our suggested cloud application will make it simpler than ever for teams to collaborate effectively. You'll be able to work more quickly and easily because this will reduce the requirement for manual operations.
 
 ## How we did it
-We followed these tutorials, which we will want to cite in the deliverable:
+We followed these tutorials:
 - https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html
 - https://aws.amazon.com/premiumsupport/knowledge-center/connect-rds-mysql-workbench/
 
