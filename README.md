@@ -22,6 +22,3 @@ Your company will be able to gather, store, share, and access data more simply t
 
 <img width="809" alt="high-level flowchart" src="https://user-images.githubusercontent.com/20544603/203457916-54550b1d-87f5-441a-9b64-65e9118e2457.png">
 <img width="809" alt="detail flowchart" src="https://github.com/happinessk/AWS-Custom-CRM/blob/assignment-2/break-down%20flow.png?raw=true">
-
-
-View all the flows: https://miro.com/app/board/uXjVPKjSvVU=/
