@@ -18,4 +18,7 @@ To confirm the functionality and business requirements, we performed user accept
 Why invest in the cloud
 Your company will be able to gather, store, share, and access data more simply thanks to cloud computing. Data that is saved in the cloud isn't kept on your computer's hard drive; rather, it is instead kept on internet servers that you may access from any location with just a few mouse clicks. While automating your organization's procedures, our suggested cloud application will make it simpler than ever for teams to collaborate effectively. You'll be able to work more quickly and easily because this will reduce the requirement for manual operations.
 
+## Flow
+https://github.com/happinessk/AWS-Custom-CRM/blob/assignment-2/high-level%20flow.png?raw=true![image](https://user-images.githubusercontent.com/20544603/203457867-dcba41c9-253c-4436-994a-25e6025b62ff.png)
+
 View all the flows: https://miro.com/app/board/uXjVPKjSvVU=/
