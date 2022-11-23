@@ -12,11 +12,18 @@ We hope to review and apply design patterns techniques to help guide our work. D
 ## Features we used
 From a technical perspective, we decided to use ElasticBeanstalk for monitoring and load balancing our web application. And instead of a local database on an EC2 instance, we opted for RDS (with MySQL) in order to have more control on database backups with a more transparent way to access and monitor the data via external database tools. We originally used S3 to store the email addresses, and this worked well since we could access S3 without a Virtual Private Cloud. However, for the read / write operations we would need to undertake with a proper CRM, a relational database made more sense. Developers in the organization are familiar with it and PHP Laravel is designed to work well with MySQL.
 With a single-page web application built in PHP Laravel, we enable the consumer to simply subscribe or unsubscribe from our email program.
+The website is using HTML, CSS and Javascript. 
 
 ## Testing
 To confirm the functionality and business requirements, we performed user acceptance testing and smoke testing. In the future, we will do performance testing to find out how the application handles a significant volume of data entered combined with heavy traffic because there will be a lot of questions on the website. Additionally, we intend to run integration tests to confirm that various functionalities function well together.
 Why invest in the cloud
 Your company will be able to gather, store, share, and access data more simply thanks to cloud computing. Data that is saved in the cloud isn't kept on your computer's hard drive; rather, it is instead kept on internet servers that you may access from any location with just a few mouse clicks. While automating your organization's procedures, our suggested cloud application will make it simpler than ever for teams to collaborate effectively. You'll be able to work more quickly and easily because this will reduce the requirement for manual operations.
+
+## How we did it
+We followed these tutorials, which we will want to cite in the deliverable:
+- https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html
+- https://aws.amazon.com/premiumsupport/knowledge-center/connect-rds-mysql-workbench/
+
 
 ## Flow
 
